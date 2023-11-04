@@ -11,5 +11,5 @@ Expert Option     : https://www.youtube.com/channel/UCCqnm8XHUoc0Ude78RJwmoA
 
 ### Import
 ```python
-from binanceapi.stable_api  import Binance
+from binanceapi  import Binance
 ```
